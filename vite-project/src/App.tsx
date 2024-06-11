@@ -4,7 +4,7 @@ import Bt3 from "./components/Bt3";
 import Bt4 from "./components/Bt4";
 import Bt5 from "./components/Bt5";
 import Bt6 from "./components/Bt6";
-import Bt78910 from "./components/bt78910/student";
+import StudentList from "./components/bt78910/StudentList";
 
 function App() {
   return (
@@ -15,7 +15,7 @@ function App() {
       <Bt4></Bt4>
       <Bt5></Bt5>
       <Bt6></Bt6>
-      <Bt78910></Bt78910>
+      <StudentList></StudentList>
     </div>
   );
 }

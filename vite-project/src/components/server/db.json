@@ -1,15 +1,6 @@
 {
   "students": [
     {
-      "id": 1,
-      "student_name": "Nguyễn Văn A",
-      "email": "nguyenvana@example.com",
-      "address": "123 Đường A, Quận 1, TP.HCM",
-      "phone": "0901234567",
-      "status": true,
-      "created_at": "2023-06-10"
-    },
-    {
       "student_name": "Nguyễn Văn F (Updated)",
       "email": "nguyenvanf_updated@example.com",
       "address": "303 Đường F, Quận 6, TP.HCM",
