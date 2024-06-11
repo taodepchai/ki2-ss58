@@ -1,0 +1,51 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "student_name": "Nguyễn Văn A",
+      "email": "nguyenvana@example.com",
+      "address": "123 Đường A, Quận 1, TP.HCM",
+      "phone": "0901234567",
+      "status": true,
+      "created_at": "2023-06-10"
+    },
+    {
+      "student_name": "Nguyễn Văn F (Updated)",
+      "email": "nguyenvanf_updated@example.com",
+      "address": "303 Đường F, Quận 6, TP.HCM",
+      "phone": "0906789012",
+      "status": false,
+      "created_at": "2024-06-10",
+      "id": 4
+    },
+    {
+      "id": 5,
+      "student_name": "Hoàng Văn E",
+      "email": "hoangvane@example.com",
+      "address": "202 Đường E, Quận 5, TP.HCM",
+      "phone": "0905678901",
+      "status": false,
+      "created_at": "2023-10-30"
+    },
+    {
+      "id": 6,
+      "student_name": "Nguyễn Văn F",
+      "email": "nguyenvanf@example.com",
+      "address": "303 Đường F, Quận 6, TP.HCM",
+      "phone": "0906789012",
+      "status": true,
+      "created_at": "2024-06-10"
+    },
+    {
+      "student_name": "accasc",
+      "age": 4,
+      "grade": "cáccasc",
+      "email": "aaa@acc.acc",
+      "address": "áccas",
+      "phone": "0989718265",
+      "status": true,
+      "created_at": "2024-06-10",
+      "id": 7
+    }
+  ]
+}
